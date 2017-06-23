@@ -1,0 +1,11 @@
+[
+  {
+    "libraryName": "antd",
+    "libraryDirectory": "lib",
+    "style": true
+  },
+  {
+    "libraryName": "antd-mobile",
+    "libraryDirectory": "component",
+  },
+]

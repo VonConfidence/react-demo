@@ -1,0 +1,19 @@
+.minFooter {
+  background: #333333;
+  color: #fff;
+  padding-left: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.minFooter h1 {
+  font-size: 15px;
+}
+
+#app {
+  background: red;
+}
+
+.app {
+  color:white;
+}

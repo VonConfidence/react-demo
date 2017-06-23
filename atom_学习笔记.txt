@@ -1,0 +1,39 @@
+1, emmet
+2, autoprefixer
+    'atom-text-editor':
+      'ctrl-shift-x': 'autoprefixer'
+      'ctrl-shift-h': 'autoprefixer'
+3, autocomplete-paths
+4, atom-bootstrap3
+6, color-picker 取色器 必备插件 ctrl+alt+c+ 代码处触发 (可以自定制)
+7, autoclose-html 闭合html标签
+8, open-in-browser  ctrl+shift+q
+9, terminal-plus plateformio-terminal
+10, pigments 颜色显示插件 必装
+11, docblockr jsdoc 给js添加注释
+12, live-server ctrl+alt+1 3000端口 ctrl+aly+q 关闭服务器
+
+
+
+UI界面篇
+  atom-material-ui 非常好看的UI
+  monokai sublime 的代码渲染主题，配合 atom-material-ui 视觉效果拔群
+  atom-material-syntax UI的附属字体渲染
+
+
+快捷键篇
+  ctrl+ 上下 移动当前代码行
+  ctrl+l 可以连续选取多行
+  ctrl+shift+k 删除当前
+  ctrl+D 选取多个
+  ctrl+鼠标左键 多光标编辑选取
+
+  ctrl+shift+c 复制当前文件的绝对路径
+
+  ctrl+shift+m 查看markdown文件预览
+
+书签
+  cmd-F2 在本行增加书签
+  F2 跳到当前文件的下一条书签
+  shift-F2 跳到当前文件的上一条书签
+  ctrl-F2 列出当前工程所有书签
